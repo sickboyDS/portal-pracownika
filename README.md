@@ -1,5 +1,9 @@
 # portal-pracownika
 Projekt zaliczeniowy PHP
+Szymon Nowacki
+Hubert Mościcki
+
+
 
 [Ogólne]
 -Możliwość rejestracji - konto dodaje się z uprawnieniem =/= 1
